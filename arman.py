@@ -453,20 +453,3 @@ while True:
         bot.polling(none_stop=True)
     except Exception as e:
         print(e)
-
-
-
-
-print(e)
-
-
-  print(e)
-
-
-   except Exception as e:
-        print(e)
-
-
-e)
-
-
